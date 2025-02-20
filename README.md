@@ -51,6 +51,20 @@ The analysis involves the following steps:
 
 ---
 
+## Requirements
+You can install all required packages using the provided `requirements.txt` file.
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+---
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
 ## 📑 **References**
 1. Eurostat. (2021, July 14). Over 1 in 6 young adults not in employment or education. European Commission. https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20210714-2
 2. Amendola, S. (2021). Trends in rates of NEET (not in education, employment, or training) subgroups among youth aged 15 to 24 in Italy, 2004-2019. Journal of Public Health, 1-9.
