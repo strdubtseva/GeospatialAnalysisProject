@@ -51,7 +51,7 @@ The analysis involves the following steps:
 
 ---
 
-## Requirements
+## 🛠️ **Requirements**
 You can install all required packages using the provided `requirements.txt` file.
 
     ```
@@ -60,7 +60,7 @@ You can install all required packages using the provided `requirements.txt` file
 
 ---
 
-## License
+## ⚖️ **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
